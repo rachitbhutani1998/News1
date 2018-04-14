@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="loading_error">Nothing new right now...
+ Try again later!!</string>
+    <string name="no_connection">Check your internet connection
+        \n Try again later</string>
+</resources>
